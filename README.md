@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Meu Portfólio</title>
+    Meu Portfólio
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Olá, eu sou [Seu Nome]!</h1>
-    <p>Desenvolvedor(a) apaixonado(a) por programação.</p>
+    <h1>Olá, eu sou Gabriela Silva Lopes!</h1>
+    <p>Desenvolvedora apaixonada por programação.</p>
     <h2>Projetos</h2>
     <ul>
         <li><a href="projects/projeto1">Projeto 1</a></li>
